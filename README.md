@@ -1,7 +1,7 @@
 <!--![Logo Marks Duarte](https://github.com/marksduarte/marksduarte.github.io/blob/master/img/image.png)-->
 
 ## 🚀 Sobre mim
-Desenvolvedor web focado no back-end e com conhecimentos de front-end.
+Desenvolvedor web focado no back-end e front-end.
 
 ## 🔭 Conhecimentos em
 - Angular
